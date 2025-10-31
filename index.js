@@ -20,6 +20,7 @@ const urls = [
   "https://doggodonutafk4.onrender.com/",
   "https://doggodonutafk5.onrender.com/",
   "https://donutsecurity.onrender.com/",
+  "https://doggomonitor.onrender.com/",
 ].filter(Boolean);
 
 let siteStatus = {}; // { url: { status: "online"|"offline", active: true|false } }
